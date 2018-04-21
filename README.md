@@ -17,7 +17,8 @@ and the item templates directory is at
 ## Data Lake
 
 No additional requirements
-## Service Fabric
+
+## Service Fabric (https://github.com/jamessmith119/azurebootcamplabs)
 * Visual Studio
 * Service Fabric SDK
   - Instructions for VS 2017 and VS 2015 can be found here - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started
