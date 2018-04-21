@@ -14,7 +14,7 @@ The Visual Studio 2017 project templates directory is typically located at
 and the item templates directory is at 
 %USERPROFILE%\Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#\
 
-## Data Lake
+## Data Lake (https://github.com/akhilmahajan96/Usql/tree/master/Azure%20BootCamp)
 
 No additional requirements
 
