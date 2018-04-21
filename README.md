@@ -26,7 +26,7 @@ No additional requirements
   - Execution policy may need to be updated via Set-ExecutionPolicy
 o	See https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started#enable-powershell-script-execution for more details
 
-## Serverless functions and logic apps
+## Serverless functions and logic apps (https://github.com/bastarr/azurebc2018)
 
 * VS Code https://code.visualstudio.com/
 * VS Code Ext: Azure Functions
